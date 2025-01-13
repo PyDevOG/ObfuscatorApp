@@ -1,0 +1,10 @@
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\bin\Debug\ObfuscatorApp.exe.config
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\bin\Debug\ObfuscatorApp.exe
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\bin\Debug\ObfuscatorApp.pdb
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\bin\Debug\dnlib.dll
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\bin\Debug\dnlib.xml
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\obj\Debug\ObfuscatorApp.csproj.AssemblyReference.cache
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\obj\Debug\ObfuscatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\obj\Debug\Obfuscat.A95D571E.Up2Date
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\obj\Debug\ObfuscatorApp.exe
+C:\Users\Badus\source\repos\ObfuscatorApp\ObfuscatorApp\obj\Debug\ObfuscatorApp.pdb
